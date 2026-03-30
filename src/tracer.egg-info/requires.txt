@@ -1,0 +1,10 @@
+PySide6
+Pillow
+numpy
+opencv-python-headless
+vtracer
+
+[dev]
+pytest
+ruff
+pyinstaller
