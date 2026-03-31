@@ -35,3 +35,4 @@ Show available CLI options:
 ```powershell
 python -m tracer.main --help
 ```
+python -m tracer.main
